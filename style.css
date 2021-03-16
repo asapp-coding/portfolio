@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+body {
+    font-family: 'Special Elite', cursive;
+}
+
+.title {
+    text-align: center;
+    background-color: black;
+    padding: 50px;
+    color: white;
+    font-family: 'Special Elite', cursive;
+}
+
+.title h1 {
+    padding: 20px;
+    font-size: 100px;
+}
+
+.icon {
+    font-size: 80px;
+    color: black;
+}
+
+.icon:hover {
+    color: grey;
+}
+
+.skill-section {
+    padding: 3% 7%;
+    text-align: center;
+}
+
+.language {
+    margin-top: 15px;
+    text-decoration: underline;
+}
+
+.image,.name {
+    margin-top: 50px;
+}
+
+.image {
+    border-radius: 70px;
+}
+
+.strength {
+    padding: 3% 7%;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.text {
+    font-size: 45px;
+}
+
+.project {
+    margin-top:10px ;
+    text-align: center;
+    padding: 3% 7%;
+}
+
+.card {
+    margin-top: 15px;
+}
+
+.footer a{
+    color: white;
+    text-decoration: none;
+}
+
+.contact {
+    padding: 3% 7%;
+    text-align: center;
+}
+
